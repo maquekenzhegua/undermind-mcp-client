@@ -1,5 +1,7 @@
 {
-  "client_name": "ZCode MCP Bridge (local)",
+  "client_id": "https://maquekenzhegua.github.io/undermind-mcp-client/mcp-client-metadata.json",
+  "client_name": "DSH Literature Bridge",
+  "client_uri": "https://github.com/maquekenzhegua/undermind-mcp-client",
   "redirect_uris": ["http://127.0.0.1:8765/callback"],
   "token_endpoint_auth_method": "none",
   "grant_types": ["authorization_code", "refresh_token"],
